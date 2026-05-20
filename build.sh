@@ -1,7 +1,7 @@
+mkdir cd_root
 cd cd_root
 rm 1ST_READ.BIN
 cd ..
-mkdir cd_root
 make clean
 rm printf.bin
 rm printf.cdi
